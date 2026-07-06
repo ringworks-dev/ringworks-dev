@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to RingWorks
 
-<!--
-**ringworks-dev/ringworks-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building useful things with AI and Web technologies.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- AI-assisted development
+- WordPress
+
+## 🛠️ Projects
+
+Coming soon...
+
+- 🌤️ Weather Compare
+- 📋 Life Checklist
+- 🎮 FFXIV Blog
+
+## 🌐 Website
+
+https://ringworks.net
