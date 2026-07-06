@@ -1,22 +1,18 @@
-# 👋 Welcome to RingWorks
+# RingWorks
 
-Building useful things with AI and Web technologies.
+Learning by building.
 
-## 🚀 Currently Learning
+I'm documenting my journey of creating web applications,
+exploring AI, and improving my development skills.
 
-- React
-- TypeScript
-- AI-assisted development
-- WordPress
+Current focus:
 
-## 🛠️ Projects
-
-Coming soon...
-
-- 🌤️ Weather Compare
-- 📋 Life Checklist
+- 🌤️ Weather Comparison App
+- 📋 Life Event Checklist
+- ⚛️ React
+- 🤖 AI
 - 🎮 FFXIV Blog
 
-## 🌐 Website
+Website
 
 https://ringworks.net
